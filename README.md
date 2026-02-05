@@ -7,7 +7,7 @@ I am a dedicated developer focused on creating seamless digital experiences and 
 
 ### 🔗 Quick Links
 - **Portfolio:** [priyanshu-kr-singh.vercel.app](https://priyanshu-kr-singh.vercel.app/)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/YOUR_LINKEDIN_URL)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/priyanshu-infosec/)
 - **Quote:** *"Success is when preparation meets opportunity."*
 
 ---
