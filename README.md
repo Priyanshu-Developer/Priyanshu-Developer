@@ -54,8 +54,8 @@ I am a dedicated developer focused on creating seamless digital experiences and 
 ### 📊 GitHub Insights
 
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?usernamePriyanshu-Developer=&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Developer&layout=compact&theme=tokyonight" />
 </p>
 
 ---
